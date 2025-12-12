@@ -6,7 +6,7 @@ YEET is a cross-platform task scheduler built with Rust and Tauri, featuring a m
 
 ## 🖼️ Screenshot
 
-![YEET App Screenshot](assets/screenshot.png)
+![YEET App Screenshot](src/assets/image.png)
 
 ---
 
